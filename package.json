@@ -1,0 +1,13 @@
+{
+  "name": "public-instances-updater",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Thib",
+  "license": "MIT",
+  "dependencies": {
+    "@iarna/toml": "^2.2.5"
+  },
+  "scripts": {
+    "update": "node index.js"
+  }
+}
